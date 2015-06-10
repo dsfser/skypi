@@ -11,15 +11,15 @@ In en rondom uw huis zijn elektrische apparaten aanwezig zoals een simpele lamp,
 
 ## - 1.2 Doelstelling van het project
 
-Doelstelling	Opzetten van een systeem dat informatie toont en apparaten op basis van specifieke informatie kan beheren.
+- Doelstelling	> Opzetten van een systeem dat informatie toont en apparaten op basis van specifieke informatie kan beheren.
 
-Specifiek	Het project richt zich op het aanleveren van een product genaamd Skypi.
+- Specifiek	> Het project richt zich op het aanleveren van een product genaamd Skypi.
 
-Meetbaar	Door middel van een klantenonderzoek zal blijken of Skypi daadwerkelijk gewild is in het huishouden.
+- Meetbaar	> Door middel van een klantenonderzoek zal blijken of Skypi daadwerkelijk gewild is in het huishouden.
 
-Realistisch	Door zowel de opdracht gever als opdracht nemer zal bekeken worden of dit project haalbaar is binnen gestelde projectduur.
+- Realistisch	> Door zowel de opdracht gever als opdracht nemer zal bekeken worden of dit project haalbaar is binnen gestelde projectduur.
 
-Tijdgebonden	Het project start 1 juni 2015 en zal 10 weken duren excl. Zomer vakantie.
+- Tijdgebonden	> Het project start 1 juni 2015 en zal 10 weken duren excl. Zomer vakantie.
 
 ## - 1.3 Verwachte projectresultaten
 
