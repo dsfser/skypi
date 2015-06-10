@@ -7,7 +7,7 @@ Smart house management system
 
 ## - 1.1 Situatieschets en probleemstelling
 
-In en rondom uw huis zijn elektrische apparaten aanwezig zoals een simpele lamp, wasmachine, verwarming, rolluiken, garagedeur ect. Daarnaast zijn er ook apparaten aanwezig die niet elektrisch zijn maar bijvoorbeeld water of gas gebruiken. Zoals een vaatwasser of een gasfornuis. Al deze apparaten hebben een ding gemeen, namelijk verbruik. Daarnaast zijn deze apparaten “stom” ze moeten aangezet worden voordat ze wat doen.
+In en rondom uw huis zijn elektrische apparaten aanwezig zoals een simpele lamp, wasmachine, verwarming, rolluiken, garagedeur ect. Daarnaast zijn er ook apparaten aanwezig die niet elektrisch zijn maar bijvoorbeeld water of gas gebruiken. Zoals een vaatwasser of een gasfornuis. Al deze apparaten hebben een ding gemeen, namelijk verbruik. Daarnaast zijn deze apparaten niet “smart" ze moeten aangezet worden voordat ze wat doen.
 
 ## - 1.2 Doelstelling van het project
 
