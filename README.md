@@ -32,7 +32,7 @@ Een software voor de PI waar men hun apparaten en sensoren op aan kunnen sluiten
 De centrale server staat in verbinding met de website. Alle instellingen worden gesynchroniseerd.
 Deze server beheert de verbinding tussen alle partijen (app, website, huizen).
 
-####   - 1.3.3	Website (skypi.nl).
+####   - 1.3.3	Website (http://skypi.nl/).
 Een beheer systeem waar men hun regels kunnen toevoegen voor verschillende sensoren. Bijvoorbeeld: als het donker is, tuinlampen aan en rolluiken dicht.
 Maar ook verbruiksinformatie wordt hier getoond. Dit is het beheer systeem voor de eigenaren van de huizen. Dit systeem is vanaf elke locatie beschikbaar.
 
